@@ -15,3 +15,5 @@ assignees: 'binchoo, wooyounggggg, emiling, JasonYoo1995, hyunrrr, ngwoon'
 ## 연관 챕터
 
 #{연관 issue 번호}
+
+@caffeine-library/readers-system-design-interview 
