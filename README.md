@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/66045861/147304048-c7042a3a-9b40-436b-9186-4e9fc581b4c3.png" width="400"/>
 
 ## 약속 👍
-❗한 챕터 당 적어도 하나의 keyword/additional/question issue를 등록을 해야합니다
+❗ 매주 keyword, summary, additional, question 중 하나 이상의 issue를 등록을 해야합니다
 
 ## 스터디 일정
 2022.01.02 ~ 미정
