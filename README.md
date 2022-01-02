@@ -20,6 +20,6 @@
 결석 : 😱
 ```
 
-|날짜|emiling|binchoo|wooyounggggg|JasonYoo1995|hyunrrr|ngwoon|비고|
-|------|---|---|---|---|---|---|---|
-|2022.01.02||||||||
+|날짜|binchoo|wooyounggggg|JasonYoo1995|hyunrrr|ngwoon|비고|
+|------|---|---|---|---|---|---|
+|2022.01.02|||||||
